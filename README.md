@@ -56,7 +56,7 @@
     근데 이렇게 하는거보다 html 태그 써서 하는게 더 효율적인거같다
 <p align="center">
 
-<img width="300" height="300" src ="https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
+<img width="400" height="600" src ="https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
 
 </p>
 
