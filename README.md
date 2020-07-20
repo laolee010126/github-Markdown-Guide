@@ -54,7 +54,7 @@
 
     ![Alt Text](url)
 
-![고양이 사진](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.co.kr%2Fk23455008%2F%25EC%2598%2588%25EC%2581%259C%25EA%25B3%25A0%25EC%2596%2591%25EC%259D%25B4-%25EC%2582%25AC%25EC%25A7%2584%2F&psig=AOvVaw0FRsaCAuhlkb2jX0M6vZzC&ust=1595296501363000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjY-9rc2uoCFQAAAAAdAAAAABAD)
+![고양이 사진](https://www.pinterest.co.kr/pin/803329652268583335/)
 
 
 
