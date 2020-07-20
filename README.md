@@ -3,7 +3,7 @@
 
 
 
-### Heading
+1. ### Heading
 
     # This is an <h1> tag
     ## This is an <h2> tag
@@ -13,7 +13,7 @@
     ###### This is an <h6> tag
     
     
-### 볼드체
+2. ### 볼드체
 
     **This text will be bold**
 
