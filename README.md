@@ -14,12 +14,6 @@
     #### This is an <h4> tag
     ##### This is an <h5> tag
     ###### This is an <h6> tag
-    
- 
- 
- 
- 
- 
 ## 2. 볼드체
 
     **This text will be bold**
