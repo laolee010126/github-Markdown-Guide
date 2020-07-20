@@ -1,5 +1,8 @@
 # github-Markdown-Guide
-## ReadMe를 이쁘게 작성하고싶은 나를 위해
+
+
+
+
 
 
 
@@ -13,12 +16,12 @@
     ###### This is an <h6> tag
     
  
-### 2. 볼드체
+## 2. 볼드체
 
     **This text will be bold**
 
 
-### 3. List
+## 3. List
 
 #### inordered
 
@@ -35,7 +38,7 @@
 * Butter
 
 
-### 링크
+## 4. 링크
 
     [링크](링크 거는 url)
     
