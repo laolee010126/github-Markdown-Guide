@@ -16,9 +16,13 @@
     ###### This is an <h6> tag
     
  
+ 
+ 
 ## 2. 볼드체
 
     **This text will be bold**
+
+
 
 
 ## 3. List
@@ -38,6 +42,8 @@
 * Butter
 
 
+
+
 ## 4. 링크
 
     [링크](링크 거는 url)
@@ -47,6 +53,11 @@
 [링크](http://example.com)
 
 
+
+
+## 5. Code Snippets
+
+** 들여쓰기 해주면 된다 (스페이스 4개) ** 
 
 
 
