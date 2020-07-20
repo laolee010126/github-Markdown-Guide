@@ -3,7 +3,7 @@
 
 
 
-### 1. Heading
+## 1. Heading
 
     # This is an <h1> tag
     ## This is an <h2> tag
