@@ -28,7 +28,7 @@
         * Wholegrain
     * Butter
     
-#### result
+#### result:
 
 * Milk
 * Bread
@@ -55,6 +55,13 @@
     ![Alt Text](url)
 
 ![고양이 사진](https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)
+
+
+
+
+**일단 이정도만 작성! 더 필요한 정보가 있으면 아래 링크를 따라가서 보자!**
+
+[The ultimate github markdown guide](https://gist.github.com/cuonggt/9b7d08a597b167299f0d)
 
 
 
