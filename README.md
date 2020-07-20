@@ -39,7 +39,7 @@
 
     [링크](링크 거는 url)
     
-#### result
+#### result:
 
 [링크](http://example.com)
 
